@@ -1,0 +1,40 @@
+body{
+    width: 100%;
+    height: 1800px;
+    background-image: url(https://marketplace.canva.com/EAFW7eSaHnY/1/0/900w/canva-blue-abstract-wave-phone-wallpaper-k7iCjgKKe80.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    float: left;
+    font-family: Verdana;
+}
+.top{
+    width: 100%;
+    height: 100px;
+    float: left;
+    background-color: gray;
+    box-sizing: border-box;
+}
+p{
+    float: left;
+    margin-top: 30px;
+    margin-left: 30px;
+    color: white;
+}
+.logo{
+    float: left;
+    margin: 25px;
+    margin-left: 10%;
+    margin-right: 5%;
+    color: white;
+    
+}
+.join{
+    width: 120px;
+    height: 70px;
+    background-color: black;
+    float: left;
+    color: white;
+    font-family: Verdana;
+    font-size: ;
+}
